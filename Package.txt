@@ -1,0 +1,8 @@
+package: SDL_sound
+platformname: macosx
+date: macosx(27.01.2024, 21.21.41)
+minimumversion: macosx(10.13)
+platformversion: macosx(14.2)
+sdkversion: macosx(1520)
+bundleversion: macosx(1.0.4)
+checksum: a621daadbfbd84cb21adef8613b9218f63aaa76b37500fb99a97b80895fea7f1
